@@ -9,4 +9,3 @@ player1 = ConsolePlayer(Mark("X"))
 player2 = RandomComputerPlayer(Mark("O"))
 
 TicTacToe(player1, player2, ConsoleRenderer()).play()
-

@@ -134,6 +134,3 @@ class GameState:
 			else:
 				return -1
 		raise UnknownGameScore("Game is not over yet")
-			
-
-        
